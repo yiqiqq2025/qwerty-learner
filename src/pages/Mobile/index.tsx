@@ -71,16 +71,16 @@ const MobilePage: React.FC = () => {
           <img src={logo} className="mr-4 h-10 w-10 lg:h-12 lg:w-12" alt="Qwerty Learner Logo" />
           <div className="flex flex-col">
             <h1 className="text-lg font-semibold tracking-tight text-indigo-500 lg:text-xl">Qwerty Learner</h1>
-            <span className="text-xs font-normal text-gray-500">官方网站</span>
+            <span className="text-xs font-normal text-gray-500">YiQiQQ</span>
           </div>
         </div>
         <a
-          href="https://qwerty.kaiyi.cool/"
+          href="https://e.yiqiqq.com/"
           target="_blank"
           rel="noopener noreferrer"
           className="hidden items-center gap-2 rounded-xl bg-gray-900 px-6 py-3 text-sm font-medium text-white transition-all duration-200 hover:-translate-y-0.5 hover:bg-gray-800 hover:shadow-lg md:flex"
         >
-          <span>访问官网</span>
+          <span>YiQiQQ</span>
           <svg className="h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path
               strokeLinecap="round"
@@ -91,12 +91,12 @@ const MobilePage: React.FC = () => {
           </svg>
         </a>
         <a
-          href="https://qwerty.kaiyi.cool/"
+          href="https://e.yiqiqq.com/"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-1 rounded-xl bg-gray-900 px-4 py-2.5 text-sm text-white transition-all duration-200 hover:bg-gray-800 md:hidden"
         >
-          <span>官网</span>
+          <span>YiQiQQ</span>
           <svg className="h-3 w-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path
               strokeLinecap="round"
@@ -113,7 +113,7 @@ const MobilePage: React.FC = () => {
         <div className="mx-auto max-w-7xl">
           <ol className="flex items-center space-x-2 text-sm text-gray-500" itemScope itemType="https://schema.org/BreadcrumbList">
             <li itemProp="itemListElement" itemScope itemType="https://schema.org/ListItem">
-              <a href="https://qwerty.kaiyi.cool/" className="transition-colors hover:text-indigo-600" itemProp="item">
+              <a href="https://e.yiqiqq.com/" className="transition-colors hover:text-indigo-600" itemProp="item">
                 <span itemProp="name">首页</span>
               </a>
               <meta itemProp="position" content="1" />
@@ -149,7 +149,7 @@ const MobilePage: React.FC = () => {
               <svg className="h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
               </svg>
-              <span>官方网站</span>
+              <span>YiQiQQ</span>
             </div>
 
             {/* 主标题 */}
@@ -180,7 +180,7 @@ const MobilePage: React.FC = () => {
 
             {/* CTA按钮 */}
             <a
-              href="https://qwerty.kaiyi.cool/"
+              href="https://e.yiqiqq.com/"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-3 rounded-full bg-gray-900 px-10 py-5 text-lg font-semibold text-white shadow-xl transition-all duration-300 hover:-translate-y-1 hover:bg-gray-800 hover:shadow-2xl"
@@ -245,7 +245,7 @@ const MobilePage: React.FC = () => {
               <meta itemProp="price" content="0" />
               <meta itemProp="priceCurrency" content="USD" />
               <meta itemProp="availability" content="https://schema.org/InStock" />
-              <meta itemProp="url" content="https://qwerty.kaiyi.cool/" />
+              <meta itemProp="url" content="https://e.yiqiqq.com/" />
             </div>
 
             {/* Aggregate Rating */}
@@ -681,7 +681,7 @@ const MobilePage: React.FC = () => {
                 </p>
               </div>
               <a
-                href="https://qwerty.kaiyi.cool/"
+                href="https://e.yiqiqq.com/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 rounded-full bg-indigo-600 px-8 py-4 font-semibold text-white transition-all duration-300 hover:bg-indigo-700 hover:shadow-lg"
@@ -841,7 +841,7 @@ const MobilePage: React.FC = () => {
               </div>
               <div className="flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
                 <a
-                  href="https://qwerty.kaiyi.cool/"
+                  href="https://e.yiqiqq.com/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 rounded-full bg-indigo-600 px-8 py-4 font-semibold text-white transition-all duration-300 hover:bg-indigo-700 hover:shadow-lg"
@@ -1080,7 +1080,7 @@ const MobilePage: React.FC = () => {
                 </p>
               </div>
               <a
-                href="https://qwerty.kaiyi.cool/"
+                href="https://e.yiqiqq.com/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 rounded-full bg-indigo-600 px-8 py-4 font-semibold text-white transition-all duration-300 hover:bg-indigo-700 hover:shadow-lg"
@@ -1117,7 +1117,7 @@ const MobilePage: React.FC = () => {
             </p>
             <div className="flex flex-col items-center gap-4 sm:flex-row">
               <a
-                href="https://qwerty.kaiyi.cool/"
+                href="https://e.yiqiqq.com/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:shadow-3xl group relative overflow-hidden rounded-full bg-white px-12 py-5 text-xl font-semibold text-gray-900 shadow-2xl transition-all duration-300 hover:-translate-y-1 hover:scale-105"
