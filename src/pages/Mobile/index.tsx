@@ -125,7 +125,7 @@ const MobilePage: React.FC = () => {
             </li>
             <li itemProp="itemListElement" itemScope itemType="https://schema.org/ListItem">
               <span className="font-medium text-gray-900" itemProp="name">
-                Qwerty Learner 官网
+                YiQiQQ
               </span>
               <meta itemProp="position" content="2" />
             </li>
